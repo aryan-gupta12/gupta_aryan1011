@@ -1,65 +1,120 @@
 # Hi, I'm Aryan Gupta 👋
 
-## AI Engineer Aspirant | Data Analytics | Python Developer
+## 🚀 AI & Data Analytics Enthusiast | Python Developer | Generative AI Projects
 
-I am a B.Tech Computer Science Engineering student specializing in Cyber Security at Sagar Institute of Research and Technology, Bhopal.
+🎓 B.Tech CSE (Cyber Security) Student at Sagar Institute of Research & Technology (SIRT), Bhopal
 
-I am passionate about Artificial Intelligence, Data Analytics, Machine Learning, and building real-world projects using Python.
+I build practical AI-powered applications using Python, Machine Learning, RAG pipelines, APIs, and Data Analytics tools.
 
 ---
 
-## Skills & Technologies
+# 🔥 Featured Projects
 
+## 🧠 Smart Visual Product Search & Recommender
+AI-powered visual search engine using CLIP, FAISS, Groq LLM, and RAG.
+
+### Tech Stack:
+Python • Streamlit • CLIP • FAISS • Groq API • FastAPI
+
+### Features:
+- Image-based product search
+- Similar product recommendations
+- AI-generated explanations
+- Vector similarity search
+- Multimodal AI pipeline
+
+---
+
+## 📄 AI PDF Chatbot
+RAG-based chatbot for answering questions from uploaded PDFs.
+
+### Tech Stack:
+Python • LangChain • FAISS • HuggingFace • Groq • Streamlit
+
+### Features:
+- PDF question answering
+- Semantic chunk retrieval
+- Vector database search
+- Conversational AI responses
+
+---
+
+## 🎬 Movie Recommender System
+Content-based recommendation engine using cosine similarity.
+
+### Features:
+- Personalized recommendations
+- Metadata vectorization
+- Poster integration
+- Streamlit deployment
+
+---
+
+## ☕ Dubai Coffee Finder
+Location-based café discovery application.
+
+### Features:
+- Nearby café search
+- Analytics dashboard
+- Open/closed filtering
+- Interactive maps
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
 - Python
 - SQL
+
+### Data Analytics
 - Power BI
 - Pandas
 - NumPy
-- Streamlit
-- Data Analytics
-- Exploratory Data Analysis
-- APIs
-- LangChain
-- Generative AI
+- Data Visualization
+- EDA
 
----
-
-## Current Learning
-
+### AI / ML
 - Machine Learning
-- Deep Learning
+- Generative AI
 - LangChain
+- FAISS
+- RAG Pipelines
 - API Integration
-- Generative AI Applications
+
+### Frameworks & Tools
+- Streamlit
+- FastAPI
+- Git & GitHub
 
 ---
 
-## Projects
+# 📈 Currently Exploring
 
-### Customer Segmentation using EDA
-- Performed RFM analysis and customer segmentation
-- Built analytical visualizations using Python
-
-### Blinkit Sales Analytics Dashboard
-- Created Power BI dashboard for sales KPI tracking
-- Used DAX and filters for analytics
-
-### Dubai Coffee Finder Application
-- Built Streamlit app for nearby café discovery
-- Added distance filtering and open/close detection
+- AI Agents
+- Deep Learning
+- Scalable RAG Systems
+- LLM Applications
+- Advanced Machine Learning
 
 ---
 
-## Connect With Me
+# 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/aryan-gupta12
-- GitHub: https://github.com/gupta_aryan1011
+🔗 LinkedIn:  
+https://linkedin.com/in/aryan-gupta12
+
+💻 GitHub:  
+https://github.com/gupta_aryan1011
+
+📧 Email:  
+aryangupta8982@gmail.com
 
 ---
 
-## Goals
+# 🎯 Goals
 
-- Secure AI Engineer Internship
-- Build strong Data Analytics portfolio
-- Learn Machine Learning deeply
-- Create AI-powered applications
+- Build impactful AI products
+- Contribute to Open Source
+- Strengthen ML Engineering skills
+- Work on scalable AI systems
